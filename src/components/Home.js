@@ -1,5 +1,6 @@
 import React from "react";
 import Profile from "./Profile";
+import { Link } from "react-router-dom"
 
 const Home = () => {
   return (
@@ -18,9 +19,9 @@ const Home = () => {
               I'm Miracle Gabriel, a Full-stack developer <br /> based in
               Nigeria
             </span>
-            <a href="/about" className="btn btn-default about_me_btn px-5 py-2 mt-3 text-white">
+            <Link to="/about" className="btn btn-default about_me_btn px-5 py-2 mt-3 text-white">
               About Me <i className="fas fa-arrow-right ml-1"></i>
-            </a>
+            </Link>
             <div className="mt-5 mt-md-4 mb-5">
               <h3 className="text-white">Find me on:</h3>
               <a href="https://facebook.com/sixpathdev">
