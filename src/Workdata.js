@@ -24,5 +24,17 @@ export const Workdata = {
             "link": "https://quisave.com.ng/",
             "description": "refactored parts of front-end, worked on parts of the server side logics."
         },
+        {
+            "projectname": "Latiayodon",
+            "techs": "Html/Css, Bootstrap, javascript",
+            "link": "https://latiayodon.firebaseapp.com/",
+            "description": "Built from scratch for a presentation, another version coming up soon."
+        },
+        {
+            "projectname": "Latiayodan Official",
+            "techs": "Html/Css, Bootstrap, javascript, PHP",
+            "link": "https://latiayodanltd.com/",
+            "description": "Modified the website."
+        },
     ]
 }
