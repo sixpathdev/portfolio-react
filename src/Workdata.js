@@ -30,5 +30,11 @@ export const Workdata = {
             "link": "https://latiayodon.firebaseapp.com/",
             "description": "Built from scratch for a presentation, another version coming up soon."
         },
+        {
+            "projectname": "Latiayodan Official",
+            "techs": "Html/Css, Bootstrap, javascript, PHP",
+            "link": "https://latiayodanltd.com/",
+            "description": "Modified the website."
+        },
     ]
 }
