@@ -35,6 +35,6 @@ export const Workdata = {
             "techs": "Html/Css, Bootstrap, javascript, PHP",
             "link": "https://latiayodanltd.com/",
             "description": "Modified the website."
-        },
+        }
     ]
 }
