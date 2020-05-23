@@ -35,6 +35,12 @@ export const Workdata = {
             "techs": "Html/Css, Bootstrap, javascript, PHP",
             "link": "https://latiayodanltd.com/",
             "description": "Modified the website."
+        },
+        {
+            "projectname": "Police Contacts",
+            "techs": "React js",
+            "link": "https://police-contacts-ng.web.app/",
+            "description": "Used police contacts json data to display phone contacts of police across the states in Nigeria."
         }
     ]
 }
