@@ -41,6 +41,6 @@ export const Workdata = {
             "techs": "React js",
             "link": "https://police-contacts-ng.web.app/",
             "description": "Used police contacts json data to display phone contacts of police across the states in Nigeria."
-        },
+        }
     ]
 }
