@@ -41,6 +41,18 @@ export const Workdata = {
             "techs": "React js",
             "link": "https://police-contacts-ng.web.app/",
             "description": "Used police contacts json data to display phone contacts of police across the states in Nigeria."
+        },
+        {
+            "projectname": "Fundmylaptop",
+            "techs": "Worked on back-end using using Node.js",
+            "link": "https://fundmylaptop.com",
+            "description": "Invest in people by funding a laptop purchase"
+        },
+        {
+            "projectname": "Chartpoll",
+            "techs": "Laravel",
+            "link": "https://chartpoll.helixgade.com",
+            "description": "Invest in people by funding a laptop purchase"
         }
     ]
 }
